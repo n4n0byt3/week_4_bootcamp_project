@@ -163,7 +163,7 @@ background-color: #c2cffc;
 }
 
 .skill-img {
-  margin: 0;
+  margin-left: 5rem;
   padding: 0;
 }
 
@@ -173,6 +173,7 @@ background-color: #c2cffc;
   align-items: flex-end;
   font-size: 12em;
   margin-right: 2em;
+  margin-left: 3rem;
 }
 
 .container3 {
@@ -192,6 +193,7 @@ background-color: #c2cffc;
   align-items: flex-start;
   font-size: 12em;
   color: black;
+  margin-left: 4rem;
 }
 
 .exper-footer {
