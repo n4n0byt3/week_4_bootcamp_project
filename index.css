@@ -162,7 +162,9 @@ background-color: #c2cffc;
   margin-right: 3em;
 }
 
-
+.skilltxt {
+  float: left;
+}
 
 .skill-header {
   display: flex;
