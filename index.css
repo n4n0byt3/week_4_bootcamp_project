@@ -98,6 +98,7 @@ body {
 .card-text {
   font-size: 1rem;
   color: black;
+  border: none;
   margin-bottom: 2.5rem;
 }
 
